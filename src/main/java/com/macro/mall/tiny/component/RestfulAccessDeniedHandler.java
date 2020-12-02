@@ -1,7 +1,7 @@
 package com.macro.mall.tiny.component;
 
 import cn.hutool.json.JSONUtil;
-import com.macro.mall.tiny.common.CommonResult;
+import com.macro.mall.tiny.common.api.CommonResult;
 import org.springframework.security.access.AccessDeniedException;
 import org.springframework.security.web.access.AccessDeniedHandler;
 import org.springframework.stereotype.Component;

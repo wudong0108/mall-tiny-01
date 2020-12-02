@@ -1,7 +1,7 @@
 package com.macro.mall.tiny.component;
 
 import cn.hutool.json.JSONUtil;
-import com.macro.mall.tiny.common.CommonResult;
+import com.macro.mall.tiny.common.api.CommonResult;
 import org.springframework.security.core.AuthenticationException;
 import org.springframework.security.web.AuthenticationEntryPoint;
 import org.springframework.stereotype.Component;

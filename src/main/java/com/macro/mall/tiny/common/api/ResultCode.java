@@ -1,4 +1,4 @@
-package com.macro.mall.tiny.common;
+package com.macro.mall.tiny.common.api;
 
 /**
   * 枚举了一些常用API操作码

@@ -1,4 +1,4 @@
-package com.macro.mall.tiny.common;
+package com.macro.mall.tiny.common.api;
 
 import com.github.pagehelper.PageInfo;
 

@@ -1,6 +1,6 @@
 package com.macro.mall.tiny.service;
 
-import com.macro.mall.tiny.common.CommonResult;
+import com.macro.mall.tiny.common.api.CommonResult;
 
 /**
  * 会员管理Service
